@@ -27,4 +27,9 @@ $
 ```
 
 To duplicate:
-clone 
+clone https://github.com/guitarvydas/odin-bug3.git
+make
+
+(Maybe this works fine on Linux, but crashes on MacOS).
+
+
